@@ -6,12 +6,13 @@ var array = [];
   return array;
 }
 function johnLennonFacts(facts) {
-  const facts = [];
+  const facts = []
 
-let i = 0;
+  let i = 0
   while (i < facts.length) {
     facts.push(`${facts[i]}!!!`)
-    i++;
+    i++
   }
-  return facts;
+
+  return facts
 }
