@@ -13,5 +13,5 @@ let i = 0;
     facts.push(`${facts}[i]''!!!"`)
   }
 
-  return facts
+  return facts;
 }
