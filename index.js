@@ -6,7 +6,7 @@ var array = [];
   return array;
 }
 function johnLennonFacts(facts) {
-  const facts = []
+  const facts = [];
 
   let i = 0
   while (i < facts.length) {
