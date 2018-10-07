@@ -12,6 +12,5 @@ let i = 0;
   while (i < facts.length) {
     facts.push(`${facts}[i] "!!!"`)
   }
-}
   return facts;
 }
