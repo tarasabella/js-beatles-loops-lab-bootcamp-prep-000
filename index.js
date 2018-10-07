@@ -20,9 +20,9 @@ function iLoveTheBeatles(n) {
   var array = [];
   do {
     push.array("I love the Beatles!")
+    i++;
   }
-  while {
-    (n < 15)
+  while (n < 15)
   }
   return array; 
 }
