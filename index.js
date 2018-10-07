@@ -14,5 +14,5 @@ function johnLennonFacts(facts) {
     i++;
   }
 
-  return newFacts
+  return newFacts;
 }
