@@ -6,7 +6,7 @@ var array = [];
   return array;
 }
 function johnLennonFacts(facts) {
-  var facts = [];
+  var newFacts = [];
 
   let i = 0;
   while (i < facts.length) {
@@ -14,5 +14,5 @@ function johnLennonFacts(facts) {
     i++;
   }
 
-  return facts
+  return newFacts
 }
